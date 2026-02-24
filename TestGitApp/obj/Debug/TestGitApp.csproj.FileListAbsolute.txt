@@ -1,0 +1,8 @@
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\bin\Debug\TestGitApp.exe.config
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\bin\Debug\TestGitApp.exe
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\bin\Debug\TestGitApp.pdb
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\obj\Debug\TestGitApp.csproj.AssemblyReference.cache
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\obj\Debug\TestGitApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\obj\Debug\TestGitApp.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\obj\Debug\TestGitApp.exe
+C:\Users\MKA\Documents\Абрамов Степан\TestGitApp\TestGitApp\obj\Debug\TestGitApp.pdb
