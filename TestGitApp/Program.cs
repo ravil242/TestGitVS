@@ -18,6 +18,8 @@ namespace TestGitApp
                     Console.WriteLine("чичо");
                 }
             }
+            int gash = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(gash);
         }
     }
 }
