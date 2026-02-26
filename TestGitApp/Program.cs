@@ -20,11 +20,7 @@ namespace TestGitApp
             }
             int gash = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(gash);
-<<<<<<< HEAD
-            string name = "oleg";
-=======
-            
->>>>>>> dev
+
         }
     }
 }
